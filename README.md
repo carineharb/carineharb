@@ -18,7 +18,7 @@
 
  
 
-  <img src="https://media.giphy.com/media/xUA7aS269qm5PX7fa0/giphy.gif" width="550" height="250"/>
+  <img src="https://64.media.tumblr.com/5541a7f1b5f0355acb566f820d94fe22/e73b7c495bea9968-78/s400x600/fd5ca20a1000bcd07bab7e1218d89a512d076e4f.gif" width="600" height="300"/>
 </div>
 
 
