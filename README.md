@@ -21,6 +21,7 @@
   <img src="https://media.giphy.com/media/xUA7aS269qm5PX7fa0/giphy.gif" width="550" height="250"/>
 </div>
 
+
 ---
 
 ### :woman_technologist: About Me : 
@@ -33,7 +34,10 @@ I am a student intrigued by technology advancement <img src="https://media.giphy
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"  width="40" height="40"/>&nbsp;
+  
 <!--
 **carineharb/carineharb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
